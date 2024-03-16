@@ -1,0 +1,3 @@
+===== Struk Pembayaran =====
+Nasi Goreng: 2 x Rp 15000
+Total Harga: Rp 30000
